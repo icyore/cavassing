@@ -1,0 +1,1146 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"data-vatype"
+			],
+			[
+				"re",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"ajax",
+				"ajax	$.ajax()"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"fina",
+				"final_money	(?)"
+			],
+			[
+				"item",
+				"item_name"
+			],
+			[
+				"cac",
+				"cacheList	{}"
+			],
+			[
+				"cached",
+				"cacheDetail	{}"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"imagep",
+				"image-preview"
+			],
+			[
+				"prop",
+				"prop	.prop() - single"
+			],
+			[
+				"hist",
+				"historyMember"
+			],
+			[
+				"levetype",
+				"levelType"
+			],
+			[
+				"lve",
+				"level_id"
+			],
+			[
+				"get",
+				"get	.get()"
+			],
+			[
+				"map",
+				"map	.map()"
+			],
+			[
+				"sli",
+				"siblings	.siblings()"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"qu",
+				"question2"
+			],
+			[
+				"set",
+				"setTimeout(f, ms)"
+			],
+			[
+				"valida",
+				"validateLength"
+			],
+			[
+				"dat",
+				"data_src"
+			],
+			[
+				"valid",
+				"validateLength(str, max, min)"
+			],
+			[
+				"selectshop",
+				"selectedShop"
+			],
+			[
+				"selectedshop",
+				"selected-shop"
+			],
+			[
+				"fa",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"focus",
+				"focus-btn"
+			],
+			[
+				"tr",
+				"trigger	.trigger()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"care",
+				"caret-up"
+			],
+			[
+				"car",
+				"caret-down"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass()"
+			],
+			[
+				"slid",
+				"slideDown	.slideDown()"
+			],
+			[
+				"is",
+				"is	.is()"
+			],
+			[
+				"nav",
+				"nav_icon"
+			],
+			[
+				"che",
+				"checklevel"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"tran",
+				"transfer_r_con"
+			],
+			[
+				"ck",
+				"checkLimit"
+			],
+			[
+				"search",
+				"search-date"
+			],
+			[
+				"sera",
+				"search-type"
+			],
+			[
+				"bad",
+				"badge_tab"
+			],
+			[
+				"chag",
+				"changeTab"
+			],
+			[
+				"linkli",
+				"link_list"
+			],
+			[
+				"cus",
+				"custom"
+			],
+			[
+				"popt",
+				"pop_title"
+			],
+			[
+				"cur",
+				"curCount"
+			],
+			[
+				"hand",
+				"handleStatus"
+			],
+			[
+				"slee",
+				"selectlist"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"pus",
+				"push_rule"
+			],
+			[
+				"loadlis",
+				"loadList"
+			],
+			[
+				"succ",
+				"successCallback"
+			],
+			[
+				"do",
+				"domain"
+			],
+			[
+				"short",
+				"shortcur_list"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"appe",
+				"append	.append()"
+			],
+			[
+				"fil",
+				"filter	.filter()"
+			],
+			[
+				"adjus",
+				"adjust-list"
+			],
+			[
+				"htm",
+				"htmlStr"
+			],
+			[
+				"has",
+				"has	.has()"
+			],
+			[
+				"html",
+				"html	.html()"
+			],
+			[
+				"pre",
+				"prepend	.prepend()"
+			],
+			[
+				"rep",
+				"replaceAll	.replaceAll()"
+			],
+			[
+				"parent",
+				"parents	.parents()"
+			],
+			[
+				"par",
+				"parent	.parent()"
+			],
+			[
+				"per",
+				"prepend	.prepend()"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"nx",
+				"nextAll	.nextAll()"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"isdef",
+				"is_default"
+			],
+			[
+				"action",
+				"action_type"
+			],
+			[
+				"backgr",
+				"backgroundColor"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"text	.text()"
+			],
+			[
+				"menu4",
+				"menu4Name"
+			],
+			[
+				"menu2",
+				"menu2Name"
+			],
+			[
+				"menu1",
+				"menu1Name"
+			],
+			[
+				"lev",
+				"levels"
+			],
+			[
+				"SOCREP",
+				"score-per-day"
+			],
+			[
+				"scoreperd",
+				"score-per-day"
+			],
+			[
+				"chc",
+				"checklevel"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"isexp",
+				"is_export"
+			],
+			[
+				"sre",
+				"scorecardsReportList"
+			],
+			[
+				"chan",
+				"changeState"
+			],
+			[
+				"cha",
+				"changeState"
+			],
+			[
+				"ch",
+				"change	.change()"
+			],
+			[
+				"ed",
+				"editCard"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"sle",
+				"selectlist"
+			],
+			[
+				"accou",
+				"accounts"
+			],
+			[
+				"total",
+				"total_exchange"
+			],
+			[
+				"tota",
+				"total_goods"
+			],
+			[
+				"sear",
+				"search-items"
+			],
+			[
+				"yes",
+				"yes-exchanged"
+			],
+			[
+				"order",
+				"order-keyword"
+			],
+			[
+				"cy",
+				"card-cycle"
+			],
+			[
+				"app",
+				"append	.append()"
+			],
+			[
+				"s_typ",
+				"s_type_box"
+			],
+			[
+				"searc",
+				"search-type"
+			],
+			[
+				"cell",
+				"cellpadding"
+			],
+			[
+				"dele",
+				"delivery_type"
+			],
+			[
+				"coupin",
+				"couponID"
+			],
+			[
+				"righ",
+				"rightcon"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"end",
+				"enddate"
+			],
+			[
+				"cou",
+				"coupon_uclimit"
+			],
+			[
+				"ea",
+				"each	.each()"
+			],
+			[
+				"mt",
+				"mtop10"
+			],
+			[
+				"image",
+				"image-preview"
+			],
+			[
+				"hi",
+				"highcharts"
+			],
+			[
+				"ba",
+				"batch"
+			],
+			[
+				"ne",
+				"nextAll	.nextAll"
+			],
+			[
+				"暂停",
+				"暂停兑换"
+			],
+			[
+				"操作失败",
+				"操作失败，请重试"
+			],
+			[
+				"error",
+				"errorThrown"
+			],
+			[
+				"serach",
+				"search_keyword"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"bind",
+				"bind_account"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"account",
+				"accountList"
+			],
+			[
+				"bin",
+				"bind_account"
+			],
+			[
+				"def",
+				"DEFAULT_PAGE_SIZE"
+			],
+			[
+				"totalnu",
+				"totalnum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "game.js",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"SET",
+				"Set Syntax: HTML"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"CONVER",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"set le",
+				"Set Syntax: LESS"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"TernJS: reload",
+			"ternjs: reload()",
+			"ternjs: reload",
+			"ternjs:reload",
+			"?",
+			"help",
+			"clear",
+			"clear()",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"cd Packages/"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/l/cavassing/animation-loop"
+	],
+	"file_history":
+	[
+		"/C/Users/l/cavassing/writing-text/game.js",
+		"/F/LC/LingGoCare/app/views/newcare/carelist.php",
+		"/C/Users/l/learngit/readme.txt",
+		"/F/LC/Home/web/css/main.css",
+		"/F/LC/Home/web/index.html",
+		"/F/LC/JdCVM/app/views/startUp/downloadData.php",
+		"/F/LC/LingGoCare/app/views/newcare/edit_msg.php",
+		"/F/LC/JdCVM/app/views/base/topsearch.php",
+		"/F/LC/JdCVM/app/views/rules/baseRule.php",
+		"/F/LC/JdCVM/app/views/index.php",
+		"/F/LC/LingGoCare/app/views/newcare/msgFile.php",
+		"/F/LC/LingGoCrm/app/views/lg_jifen/track/index.php",
+		"/C/Users/l/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/LC/LingGoCrm/app/views/track/remind.php",
+		"/F/LC/LingGoCrm/app/views/lg_jifen/track/remind.php",
+		"/F/LC/LingGoCrm/app/views/track/index.php",
+		"/C/Users/l/.ssh/id_rsa.pub",
+		"/C/Users/l/.ssh/id_rsa",
+		"/C/Users/l/learngit/license",
+		"/F/LC/Learning Project/HomePage-m/css/main.css",
+		"/F/LC/Learning Project/HomePage-m/report/1111.html",
+		"/F/LC/Learning Project/HomePage-m/Report.html",
+		"/F/LC/Home/web/Report/1111.html",
+		"/F/LC/Learning Project/HomePage/Report.html",
+		"/F/LC/Learning Project/HomePage/index.html",
+		"/F/LC/Learning Project/HomePage/css/main.css",
+		"/F/LC/Learning Project/HomePage/Report/1111.html",
+		"/C/Users/l/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/LC/Learning Project/HomePage/Recruit.html",
+		"/F/LC/Learning Project/HomePage/1111.html",
+		"/F/LC/Learning Project/HomePage/NewsList.html",
+		"/F/LC/Learning Project/test.html",
+		"/C/Users/l/Desktop/temp.html",
+		"/C/Users/l/Downloads/small.cur",
+		"/F/LC/SoCRM/app/views/goods/create_goods.php",
+		"/F/LC/JdCVM/app/views/rules/createCustomRule.php",
+		"/F/LC/SoCRM/app/views/sovipBack/advertise.php",
+		"/F/LC/SoCRM/app/views/sovipBack/newmessage.php",
+		"/F/LC/SoCRM/app/views/marketing/send_email.php",
+		"/F/LC/JdCVM/app/classes/controller/customer.php",
+		"/F/LC/JdCVM/app/bootstrap.php",
+		"/F/LC/JdCVM/app/views/startUp/step2.php",
+		"/F/LC/JdCVM/app/views/rules/customRule.php",
+		"/F/LC/SoCRM/app/views/postfree_card/select_goods.php",
+		"/F/LC/SoCRM/app/views/bouns/index.php",
+		"/F/LC/SoCRM/app/views/goods/import_goods.php",
+		"/F/LC/SoCRM/app/views/postfree_card/index.php",
+		"/F/LC/SoCRM/app/views/export.php",
+		"/F/LC/SoCRM/app/views/foundManage/account.php",
+		"/F/LC/SoCRM/app/views/foundManage/detail.php",
+		"/F/LC/SoCRM/app/views/foundManage/index.php",
+		"/F/LC/SoCRM/app/views/foundManage/moneyDetail.php",
+		"/F/LC/SoCRM/app/views/foundManage/onlinePay.php",
+		"/F/LC/SoCRM/app/views/foundManage/recharge.php",
+		"/F/LC/SoCRM/app/views/foundManage/withdraw.php",
+		"/F/LC/SoCRM/app/views/bouns/report.php",
+		"/F/LC/SoCRM/app/views/bouns/select_goods.php",
+		"/F/LC/SoCRM/app/views/bouns/set_info.php",
+		"/F/LC/SoCRM/app/views/coupon/report.php",
+		"/F/LC/SoCRM/app/views/coupon/select_goods.php",
+		"/F/LC/SoCRM/app/views/coupon/set_finish.php",
+		"/F/LC/SoCRM/app/views/coupon/set_info.php",
+		"/F/LC/SoCRM/app/views/bouns/create.php",
+		"/C/Users/l/Desktop/test.html",
+		"/F/LC/SoCRM/app/views/exchange/index.php",
+		"/F/LC/SoCRM/app/views/exchange/select_goods.php",
+		"/F/LC/SoCRM/app/views/exchange/set_info.php",
+		"/F/LC/SoCRM/app/views/badge/select_goods.php",
+		"/F/LC/SoCRM/app/views/badge/set_info.php",
+		"/F/LC/SoCRM/app/views/base/leftbox.php",
+		"/F/LC/SoCRM/app/views/sovipBack/dynamic.php",
+		"/F/LC/SoCRM/app/views/sovipBack/links.php",
+		"/F/LC/SoCRM/app/views/sovipBack/nickname.php",
+		"/F/LC/SoCRM/app/views/sovipBack/product.php",
+		"/F/LC/SoCRM/app/views/sovipBack/pushmessage.php",
+		"/F/LC/SoCRM/app/views/sovipBack/setlogo.php",
+		"/F/LC/SoCRM/app/views/sovipBack/shop.php",
+		"/F/LC/SoCRM/app/views/sovipBack/style.php",
+		"/F/LC/SoCRM/app/views/rules/interaction_list_second.php",
+		"/F/LC/SoCRM/app/views/rules/interaction_self_rule.php",
+		"/F/LC/SoCRM/app/views/rules/more_rules.php",
+		"/F/LC/SoCRM/app/views/rules/order_rules.php",
+		"/F/LC/SoCRM/app/views/rules/orderrule_list.php",
+		"/F/LC/SoCRM/app/views/rules/promotion.php",
+		"/F/LC/SoCRM/app/views/rules/promotion_buyer.php",
+		"/F/LC/SoCRM/app/views/rules/promotion_goods.php",
+		"/F/LC/SoCRM/app/views/rules/signinlist.php",
+		"/F/LC/SoCRM/app/views/rules/promotion_setgoods.php",
+		"/F/LC/SoCRM/app/views/badge/badgeList.php",
+		"/F/LC/SoCRM/app/views/badge/create.php",
+		"/F/LC/SoCRM/app/views/badge/hand.php",
+		"/F/LC/SoCRM/app/views/badge/import.php",
+		"/F/LC/SoCRM/app/views/badge/index.php",
+		"/F/LC/SoCRM/app/views/badge/market_report.php",
+		"/F/LC/SoCRM/app/views/badge/report.php",
+		"/F/LC/SoCRM/app/views/base/module.php",
+		"/F/LC/SoCRM/app/views/bouns/market_report.php",
+		"/F/LC/SoCRM/app/views/caipiao/create.php",
+		"/F/LC/SoCRM/app/views/caipiao/hand.php",
+		"/F/LC/SoCRM/app/views/caipiao/hand_create.php",
+		"/F/LC/SoCRM/app/views/caipiao/index.php",
+		"/F/LC/SoCRM/app/views/caipiao/list.php",
+		"/F/LC/SoCRM/app/views/care/bespeak.php",
+		"/F/LC/SoCRM/app/views/care/bespeak_report.php",
+		"/F/LC/SoCRM/app/views/care/create.php",
+		"/F/LC/SoCRM/app/views/care/index.php",
+		"/F/LC/SoCRM/app/views/care/more.php",
+		"/F/LC/SoCRM/app/views/care/preview.php",
+		"/F/LC/SoCRM/app/views/care/recharge.php",
+		"/F/LC/SoCRM/app/views/care/rechargemail.php",
+		"/F/LC/SoCRM/app/views/care/trend.php",
+		"/F/LC/SoCRM/app/views/coupon/create.php",
+		"/F/LC/SoCRM/app/views/coupon/index.php",
+		"/F/LC/SoCRM/app/views/coupon/market_report.php",
+		"/F/LC/SoCRM/app/views/ebook/create.php",
+		"/F/LC/SoCRM/app/views/ebook/delivery.php",
+		"/F/LC/SoCRM/app/views/ebook/ebook.php",
+		"/F/LC/SoCRM/app/views/ebook/report.php",
+		"/F/LC/SoCRM/app/views/ebook/sendByCsv.php",
+		"/F/LC/SoCRM/app/views/ebook/words.php",
+		"/F/LC/SoCRM/app/views/exchange/fahuo.php",
+		"/F/LC/SoCRM/app/views/exchange/market_report.php",
+		"/F/LC/SoCRM/app/views/exchange/report.php",
+		"/F/LC/SoCRM/app/views/ggk/create.php",
+		"/F/LC/SoCRM/app/views/ggk/index.php",
+		"/F/LC/SoCRM/app/views/ggk/list.php",
+		"/F/LC/SoCRM/app/views/goods/goods_tag.php",
+		"/F/LC/SoCRM/app/views/goods/index.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"F:\\LC\\SoCRM\\app\\views",
+			"F:\\LC\\JdCVM\\app\\views",
+			"F:\\LC\\LingGoCare\\app\\views\\newcare",
+			"F:\\LC\\SoCRM\\app\\views",
+			"F:\\LC\\SoCRM\\app\\views\\postfree_card",
+			"F:\\LC\\SoCRM\\app\\views\\coupon",
+			"F:\\LC\\LingGoCare\\app\\views\\newcare",
+			"F:\\LC\\LingGoCare\\app\\views",
+			"F:\\LC\\LingGoCare",
+			"F:\\LC\\LingGoCrm\\app\\views",
+			"F:\\LC\\LingGoCare\\app",
+			"F:\\LC\\LingGoCrm",
+			"F:\\LC\\SoCRM\\app\\views",
+			"F:\\LC\\SoCRM\\app\\views\\foundManage",
+			"F:\\LC\\JDCVM\\app\\views",
+			"F:\\LC\\JDCVM\\public",
+			"F:\\LC\\SoCRM\\app\\views",
+			"F:\\LC\\SoCRM\\app",
+			"F:\\LC\\SoCRM\\app\\views",
+			"F:\\LC\\JDCVM\\app\\views",
+			"F:\\LC\\SoCRM\\app\\views",
+			"D:\\wamp\\www\\jdcvm",
+			"D:\\wamp\\www\\jdcvm\\extraFunc",
+			"D:\\wamp\\www\\jdcvm",
+			"F:\\LC\\SoCRM\\app\\views\\sovipBack",
+			"F:\\LC\\SoCRM\\app\\views\\sovipBack,C:\\Users\\CBCC\\Desktop\\JSWorkFiles",
+			"F:\\LC\\SoCRM\\app\\views\\sovipBack",
+			"F:\\LC\\SoCRM\\app\\views",
+			"C:\\Users\\CBCC\\Desktop\\JSWorkFiles",
+			"F:\\LC\\SoCRM\\app\\views",
+			"F:\\LC\\SoCRM\\app\\views\\ggk",
+			"F:\\LC\\SoCRM\\app\\views\\ggk,F:\\LC\\SoCRM\\app\\views\\ggk",
+			"F:\\LC\\SoCRM\\app\\views\\ggk"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"signa",
+			"default",
+			"#textarea",
+			"#textarea1",
+			"savete",
+			".sub",
+			"button1",
+			"index",
+			".news",
+			"sprit",
+			"h1",
+			"p",
+			"tab",
+			"h2",
+			"KindEditor",
+			"KindEditor.ready(function(K) {\n            window.editor = K.create('#editor_id', {\n            items : ['source', '|', 'undo', 'redo', '|', 'cut', 'copy', 'paste','plainpaste', 'wordpaste', '|', 'justifyleft', 'justifycenter', 'justifyright','justifyfull', 'insertorderedlist', 'insertunorderedlist', 'indent', 'outdent', 'subscript','superscript', 'clearhtml', 'quickformat', 'selectall', '|','formatblock', 'fontname', 'fontsize', '|', 'fullscreen', '/', 'forecolor', 'hilitecolor', 'bold','italic', 'underline', 'strikethrough', 'lineheight', 'removeformat', '|' , 'table', 'hr', 'pagebreak','anchor', 'link', 'unlink', ]\n            });\n        });",
+			".php",
+			"flag",
+			"sign",
+			"云貅客户关系管理系统-",
+			"SoCRM关系管理系统",
+			"weixin",
+			"创建包邮卡",
+			"店铺优惠券<i class=\"tabmenupic\"></i></a>",
+			"saveBtn",
+			"返回模版列表",
+			"祝您生日快乐",
+			"短信内容最前面必须用中文中括号括起来店铺名称，否则短信会被短信运营商屏蔽而发不出。如短信内容：“【新农哥旗舰店 】亲，祝您生日快乐",
+			"规定",
+			"layerTopFn",
+			"fn",
+			"searchInput",
+			"超出<strong class=\"orangText\"> 3 </strong>天，即使短信账号有可用的短信，也不继续发送信息。",
+			"<p id=\"top_smsTip\" class=\"tipBox marTop\">温馨提示：<br>\n		1、短信关怀任务的短信发送时间段：9点-21点，如遇当天不能发送完成，则顺延至第二天发送；<br>\n		2、若由于可用的短信数不够，导致发送中止；从首次中断时算起，若<strong class=\"orangText\"> 3 </strong>天内，短信账号里面有可用的短信，则继续发送；\n		&nbsp;超出<strong class=\"orangText\"> 3 </strong>天，即使短信账号有可用的短信，也不继续发送信息。\n	</p>",
+			"短信关怀任务的短信发送时间段：9点-21点，如遇当天不能发送完成，则顺延至第二天发送；",
+			"22日",
+			"gray",
+			"tipbox",
+			"短信内容最前面必须用中文中括号括起来店铺名称，否则短信会被短信运营商屏蔽而发不出。如短信内容：“【新农哥旗舰店 】",
+			"短信内容最前面必须用中文中括号括起来店铺名称，否则短信会被短信运营商屏蔽而发不出。如短信内容：“【新农哥旗舰店 】亲，祝您生日快乐 ”",
+			"创建短信内容",
+			"短信内容最前面必须用中文中括号括起来店铺名称，否则短信会被短信运营商屏蔽而发不出。如短信内容：“【新农哥旗舰店 】亲，祝您生日快乐 ”",
+			"textarea",
+			"defaultlist",
+			"default",
+			"pop_msgtxt",
+			"set_template",
+			"window.open",
+			"hr",
+			"temp",
+			"#money",
+			"cacheList[$this.attr('data-no')]",
+			"不可用金额",
+			"cacheDetail",
+			"cacheData",
+			"冻结创建时间",
+			">冻结金额",
+			"冻结金额",
+			"selectAll",
+			"search-keyword",
+			"avali",
+			"del-good",
+			"loadi",
+			"菜单名最少一个汉字",
+			"validate",
+			"baseBack.js",
+			">店铺<",
+			"店铺",
+			"对应店铺",
+			"对应",
+			"适应",
+			"对应店铺",
+			"<?php include(\"/base",
+			"<?php include(\"../base",
+			"();\n",
+			"<?php include(\"/base/leftbox.php\") ?>",
+			");\n",
+			"float",
+			".right",
+			"selectedCount",
+			"del-good",
+			"floatfoot",
+			".contain",
+			"float",
+			"right",
+			"maxlength=\"4\"",
+			"红包兑换",
+			".preview",
+			"<a href=\"\">示例</a>",
+			"maxlength=\"4\"",
+			"min",
+			"baseback.js",
+			"BackUp",
+			"backup",
+			"extrafunc",
+			"StartUp",
+			"nextUrl",
+			"vertical-align: midd",
+			"item",
+			".item",
+			"initialNav",
+			"icon",
+			"ico",
+			"float",
+			"logo",
+			"getImgSrc",
+			"position: rela",
+			"div",
+			"caret",
+			"display",
+			"sr_input",
+			"verti",
+			"right",
+			"zindex",
+			"selectfn",
+			"sanjiao",
+			"sanjiao_down",
+			"nav",
+			"sanjiao",
+			"_",
+			"sanjiao_left",
+			"color",
+			"btn-sm",
+			"btn",
+			"input",
+			"bulb_tip",
+			"gou",
+			"icon-add"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"云貅客户关系管理系统",
+			"新建包邮卡",
+			"店铺优惠券<i class=\"tabmenupic\"></i></a><a href=\"/mall/coupon/publish\" class=\"tabmenu_cur\">新建优惠券<i class=\"tabmenupic\"></i></a>",
+			"temp",
+			">不可用金额",
+			"不可用金额",
+			"不可用金额（元）",
+			"base.js",
+			"适应店铺",
+			"<?php include(\"/../base",
+			"<?php include(\"/base",
+			"<?php include(\"/../base/leftbox.php\") ?>",
+			"",
+			"<a href=\"javascript:;\">示例</a>",
+			"",
+			"base.js",
+			"extraFunc",
+			"caret",
+			"-",
+			"",
+			"品牌资讯",
+			"nav_zhuangxiu",
+			"ckmiddle",
+			"",
+			"ckmiddle",
+			" ",
+			"",
+			"<?php include(\"/..",
+			"/public/js/ajaxcrud.js",
+			"<script type=\"text/javascript\" src=\"/public/js/ajaxcrud.js\"></script>",
+			"<?php include(\"/..",
+			"<script src=\"http://cdn.bootcss.com/jquery/1.7.2/jquery.min.js\" type=\"text/javascript\" ></script>",
+			"include(\"/..",
+			"/../base/leftbox.php",
+			"<link rel=\"stylesheet\" href=\"/public/css/sovipBack.css\" />",
+			"<span class=\"question middle\"></span>",
+			"<input class=\"ckmiddle\" type=\"checkbox\" />",
+			"searchfn",
+			"totalPrice",
+			"<span class=\"va-10x\">元优惠券</span>",
+			"<img class=\"book-pic\" src=\"/public/images/book.jpg\" alt=\"图书\" /></a>",
+			"<div class=\"buy tal\">\n                <span",
+			" <div class=\"buy f15x tac\">\n                <a href=\"#\">3600-6900积分兑换 &gt;</a>\n            </div>",
+			"last2",
+			"last1",
+			"<span class=\"db\">剩余</span>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "game.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "canvas.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"scrat",
+				"C:\\Users\\CBCC\\Desktop\\JSWorkFiles\\scratchCard.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
