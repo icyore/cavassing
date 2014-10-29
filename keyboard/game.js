@@ -14,13 +14,50 @@ function Box (options) {
 var boxes = [];
 var drawing = false;
 var boxSize = 20;
+var keys = {};
+var player = new Box({
+  x: 10,
+  y: 10,
+  width: 50,
+  height: 50,
+  color: '#f4ead5',
+  speed: 5
+});
+var bullets = [];
 
-document.addEventListener('mousedown', function (e) {
-  drawing = true;
+function input (player) {
+  if (37 in keys) {
+    player.x -= player.speed;
+  }
+  if (39 in keys) {
+    player.x += player.speed;
+  }
+  if (38 in keys) {
+    player.y -= player.speed;
+  }
+  if (40 in keys) {
+    player.y += player.speed;
+  }
+
+  if (32 in keys) {    
+    bullets[bullets.length] = new Box({
+      x: player.x + player.width / 2,
+      y: player.y + player.height / 2,
+      width: 4,
+      height: 4,
+      color: '#e3dc01',
+      speed: 10
+    });
+  }
+}
+
+document.addEventListener('keydown', function (e) {
+  keys[e.keyCode] = true;
+  e.preventDefault();
 });
 
-document.addEventListener('mouseup', function (e) {
-  drawing = false;
+document.addEventListener('keyup', function (e) {
+  delete keys[e.keyCode];
 });
 
 document.addEventListener('mousemove', function (e) {
@@ -38,25 +75,12 @@ document.addEventListener('mousemove', function (e) {
 function draw () {
   context.clearRect(0, 0, canvas.width, canvas.height);
 
-  boxes.forEach(function(box, i) {
-    context.fillStyle = box.color;
-    context.fillRect(box.x, box.y, box.width, box.height);
-  });
 }
 
 function update () {
-  boxes.forEach(function(box ,i) {
-    if(box.height < 0){
-      boxes.shift();
-    }
-    box.height--;
-    box.width--;
-  })
+
 }
 
-function randomNumber(min, max) {
-  return Math.round(Math.random() * (max - min + 1) + min);
-}
 
 
 function loop () {
